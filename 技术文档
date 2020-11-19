@@ -1,0 +1,14 @@
+  white-space: pre-wrap;
+  white-space: pre-line; // 合并p标签产生的换行
+  /* css-3 */
+  white-space: -moz-pre-wrap;
+  white-space: -moz-pre-line;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  white-space: -pre-line;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  white-space: -o-pre-line;
+
+  /* Opera 7 */
+  word-wrap: break-word;
